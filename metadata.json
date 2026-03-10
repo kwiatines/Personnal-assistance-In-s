@@ -1,0 +1,5 @@
+{
+  "name": "Nini - Career Agent for Inès",
+  "description": "A personal career assistant for Inès Kwiatkowski, helping her present her professional profile in English and French.",
+  "requestFramePermissions": ["microphone"]
+}
